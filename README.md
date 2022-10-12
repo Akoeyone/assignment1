@@ -1,3 +1,5 @@
 # assignment1
 
-hello akeem 
+hello akeem
+
+hi pete
